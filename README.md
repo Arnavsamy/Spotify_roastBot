@@ -1,2 +1,2 @@
 # Spotify_roastBot
-Using APIs
+Created with Gemini and Spotify (API) keys by using Python and front-end Streamlit 
